@@ -1,0 +1,201 @@
+date,state,district,pincode,age_0_5,age_5_17,age_18_greater,date_str
+19-09-2025,Andhra Pradesh,Krishna,521330,2,0,0,19-09-2025
+18-11-2025,Andhra Pradesh,Guntur,522015,1,0,0,18-11-2025
+22-12-2025,Uttar Pradesh,Unnao,241502,5,0,0,22-12-2025
+26-10-2025,Madhya Pradesh,Mandsaur,458883,1,2,0,26-10-2025
+19-09-2025,Punjab,Amritsar,143202,2,0,0,19-09-2025
+24-12-2025,Maharashtra,Nandurbar,425409,6,1,1,24-12-2025
+13-11-2025,Uttar Pradesh,Balrampur (Up),271607,3,3,0,13-11-2025
+18-09-2025,Andhra Pradesh,Guntur,522401,1,0,0,18-09-2025
+25-11-2025,Maharashtra,Mumbai,400069,2,1,0,25-11-2025
+17-11-2025,Karnataka,Belagavi,591110,3,0,0,17-11-2025
+28-10-2025,Assam,Karimganj,788806,3,3,0,28-10-2025
+29-12-2025,Kerala,Palakkad,678507,2,0,0,29-12-2025
+30-10-2025,Tamil Nadu,Madurai,625109,5,0,0,30-10-2025
+20-09-2025,Rajasthan,Alwar,301714,1,0,0,20-09-2025
+23-09-2025,Tamil Nadu,Chennai,600002,4,1,0,23-09-2025
+23-09-2025,West Bengal,North 24 Parganas,700036,0,1,0,23-09-2025
+26-12-2025,Rajasthan,Kota,326501,3,2,0,26-12-2025
+19-09-2025,Assam,Hailakandi,788801,2,4,0,19-09-2025
+18-11-2025,Uttar Pradesh,Kannauj,209725,3,0,0,18-11-2025
+25-09-2025,Maharashtra,Jalgaon,425103,2,0,0,25-09-2025
+13-10-2025,Tamil Nadu,Ramanathapuram,623308,1,0,0,13-10-2025
+15-12-2025,Rajasthan,Bundi,323602,5,1,0,15-12-2025
+18-09-2025,Karnataka,Bagalkot,587114,0,1,0,18-09-2025
+15-12-2025,Madhya Pradesh,Khandwa,450112,3,1,0,15-12-2025
+24-09-2025,Tamil Nadu,Tiruvannamalai,606709,2,0,0,24-09-2025
+15-12-2025,West Bengal,Murshidabad,742407,0,0,1,15-12-2025
+15-12-2025,Gujarat,Kachchh,370485,2,0,0,15-12-2025
+31-10-2025,Karnataka,Gadag,582115,3,1,0,31-10-2025
+30-10-2025,Chhattisgarh,Janjgir-Champa,495556,0,1,0,30-10-2025
+31-12-2025,Bihar,Patna,800010,0,1,0,31-12-2025
+22-09-2025,Bihar,Darbhanga,847428,4,1,0,22-09-2025
+27-10-2025,West Bengal,North 24 Parganas,743222,1,0,0,27-10-2025
+16-09-2025,Karnataka,Kodagu,571213,1,0,0,16-09-2025
+17-10-2025,Odisha,Rayagada,765029,6,1,0,17-10-2025
+14-11-2025,Andhra Pradesh,Vizianagaram,535580,2,0,0,14-11-2025
+21-10-2025,West Bengal,Jalpaiguri,736202,1,0,0,21-10-2025
+21-12-2025,Uttar Pradesh,Gautam Buddha Nagar,201310,2,0,0,21-12-2025
+25-11-2025,Kerala,Kottayam,686540,0,1,0,25-11-2025
+20-10-2025,Uttar Pradesh,Hardoi,241302,1,3,0,20-10-2025
+18-11-2025,Rajasthan,Jodhpur,342037,6,5,0,18-11-2025
+17-10-2025,Karnataka,Davanagere,577589,2,0,0,17-10-2025
+24-10-2025,Jammu And Kashmir,Kathua,184202,0,1,0,24-10-2025
+25-11-2025,West Bengal,Nadia,741248,2,0,0,25-11-2025
+27-09-2025,Bihar,Darbhanga,847106,3,2,0,27-09-2025
+18-09-2025,Tamil Nadu,Tiruchirappalli,620003,3,0,0,18-09-2025
+25-10-2025,Madhya Pradesh,Sidhi,486890,2,0,0,25-10-2025
+31-12-2025,Madhya Pradesh,Balaghat,481105,17,9,0,31-12-2025
+19-11-2025,Andhra Pradesh,East Godavari,533212,2,0,0,19-11-2025
+20-09-2025,West Bengal,Purulia,723127,10,1,0,20-09-2025
+17-10-2025,Andhra Pradesh,West Godavari,534305,2,0,0,17-10-2025
+16-10-2025,West Bengal,North 24 Parganas,743249,0,1,0,16-10-2025
+24-12-2025,West Bengal,Malda,732102,2,0,0,24-12-2025
+20-09-2025,West Bengal,Howrah,711106,0,1,0,20-09-2025
+25-11-2025,Karnataka,Bengaluru,560040,2,0,0,25-11-2025
+21-12-2025,Karnataka,Mandya,571403,4,0,0,21-12-2025
+24-09-2025,Karnataka,Udupi,576226,1,0,0,24-09-2025
+29-10-2025,Tamil Nadu,Vellore,635808,1,0,0,29-10-2025
+25-10-2025,Madhya Pradesh,Rewa,486335,7,1,0,25-10-2025
+31-12-2025,Maharashtra,Aurangabad,423703,3,0,0,31-12-2025
+14-11-2025,Gujarat,Gandhinagar,382735,2,1,0,14-11-2025
+15-10-2025,Rajasthan,Jhunjhunu,331030,1,0,0,15-10-2025
+24-09-2025,Gujarat,Sabarkantha,383001,1,0,0,24-09-2025
+24-09-2025,Karnataka,Mandya,571416,5,0,0,24-09-2025
+17-09-2025,Rajasthan,Alwar,301427,1,2,0,17-09-2025
+18-09-2025,Bihar,Buxar,802134,1,4,0,18-09-2025
+27-10-2025,Tamil Nadu,Sivaganga,630108,2,0,0,27-10-2025
+25-09-2025,Gujarat,Chhotaudepur,391168,1,0,0,25-09-2025
+14-11-2025,Telangana,Yadadri.,508126,5,2,0,14-11-2025
+28-12-2025,Andhra Pradesh,Chittoor,517234,1,0,0,28-12-2025
+17-11-2025,Tamil Nadu,Madurai,625017,2,0,0,17-11-2025
+28-10-2025,West Bengal,South 24 Parganas,743332,4,1,0,28-10-2025
+20-09-2025,Gujarat,Rajkot,360470,1,0,0,20-09-2025
+17-11-2025,Tripura,Unakoti,799281,2,0,0,17-11-2025
+26-09-2025,Gujarat,Navsari,396321,1,0,0,26-09-2025
+31-10-2025,Bihar,Banka,813116,3,0,0,31-10-2025
+30-10-2025,Tamil Nadu,Thoothukkudi,628208,0,1,0,30-10-2025
+14-11-2025,Maharashtra,Beed,431123,1,0,0,14-11-2025
+25-11-2025,West Bengal,Jalpaiguri,735101,5,2,0,25-11-2025
+15-12-2025,Jharkhand,Deoghar,814142,13,11,0,15-12-2025
+27-12-2025,Uttar Pradesh,Mathura,281204,10,6,0,27-12-2025
+31-10-2025,West Bengal,Murshidabad,742308,7,1,0,31-10-2025
+15-09-2025,Jammu And Kashmir,Budgam,191111,2,0,0,15-09-2025
+31-10-2025,West Bengal,South 24 Parganas,700137,2,4,0,31-10-2025
+27-10-2025,Andhra Pradesh,Krishna,521104,1,0,0,27-10-2025
+19-10-2025,Telangana,Komaram Bheem,504313,1,0,0,19-10-2025
+20-09-2025,Tamil Nadu,Namakkal,637403,1,0,0,20-09-2025
+17-10-2025,Uttar Pradesh,Hathras,204101,31,15,0,17-10-2025
+16-11-2025,Telangana,Hyderabad,500064,3,6,0,16-11-2025
+28-10-2025,Andhra Pradesh,Sri Potti Sriramulu Nellore,524323,2,0,0,28-10-2025
+19-11-2025,Gujarat,Mahesana,384002,6,2,0,19-11-2025
+15-09-2025,Himachal Pradesh,Hamirpur (Hp),174309,1,0,0,15-09-2025
+15-10-2025,Karnataka,Mandya,571812,2,0,0,15-10-2025
+19-09-2025,Punjab,Patiala,147102,3,0,0,19-09-2025
+13-10-2025,Tamil Nadu,Namakkal,637304,3,0,0,13-10-2025
+28-12-2025,Uttar Pradesh,Ghaziabad,245205,0,1,0,28-12-2025
+15-11-2025,Madhya Pradesh,Rewa,486450,3,1,0,15-11-2025
+24-09-2025,Gujarat,Arvalli,383350,7,0,0,24-09-2025
+21-10-2025,Bihar,Jehanabad,804417,0,3,0,21-10-2025
+15-11-2025,Tamil Nadu,Thanjavur,613303,1,0,0,15-11-2025
+16-11-2025,Himachal Pradesh,Chamba,176308,1,0,0,16-11-2025
+26-12-2025,Uttar Pradesh,Sitapur,261402,0,1,0,26-12-2025
+19-11-2025,Telangana,Nalgonda,508114,3,0,0,19-11-2025
+29-09-2025,Bihar,Supaul,852215,0,1,0,29-09-2025
+31-12-2025,West Bengal,Purba Bardhaman,713211,0,1,0,31-12-2025
+19-10-2025,Kerala,Thiruvananthapuram,695614,1,0,0,19-10-2025
+14-11-2025,Chhattisgarh,Raipur,492015,5,0,0,14-11-2025
+13-10-2025,Andhra Pradesh,Guntur,522018,1,0,0,13-10-2025
+23-12-2025,Manipur,Thoubal,795148,1,0,0,23-12-2025
+20-09-2025,Madhya Pradesh,Bhind,477447,3,1,0,20-09-2025
+20-10-2025,Gujarat,Ahmedabad,382213,1,0,0,20-10-2025
+21-09-2025,Madhya Pradesh,Satna,485001,1,0,0,21-09-2025
+29-10-2025,Assam,Cachar,788031,1,1,0,29-10-2025
+30-10-2025,Mizoram,Mamit,796081,1,0,0,30-10-2025
+16-10-2025,Andhra Pradesh,Kurnool,518003,1,0,0,16-10-2025
+25-10-2025,Telangana,Nizamabad,503185,1,0,0,25-10-2025
+18-11-2025,Andhra Pradesh,Krishna,521325,1,1,0,18-11-2025
+24-09-2025,Jharkhand,Deoghar,814157,4,6,0,24-09-2025
+26-10-2025,Gujarat,Vadodara,391445,2,0,0,26-10-2025
+31-12-2025,Kerala,Malappuram,679576,1,6,0,31-12-2025
+21-12-2025,Maharashtra,Hingoli,431705,8,0,0,21-12-2025
+27-10-2025,Andhra Pradesh,Srikakulam,532445,1,0,0,27-10-2025
+15-09-2025,Telangana,Warangal,506224,2,0,0,15-09-2025
+28-12-2025,Bihar,Gopalganj,841505,1,1,0,28-12-2025
+27-10-2025,Kerala,Malappuram,679321,1,2,0,27-10-2025
+24-09-2025,Rajasthan,Chittorgarh,312601,2,1,0,24-09-2025
+19-09-2025,Assam,Tinsukia,786156,1,1,0,19-09-2025
+13-09-2025,Chhattisgarh,Rajnandgaon,491558,1,1,0,13-09-2025
+25-11-2025,Andhra Pradesh,East Godavari,533343,1,0,0,25-11-2025
+23-12-2025,Odisha,Mayurbhanj,757020,1,0,0,23-12-2025
+27-10-2025,West Bengal,Howrah,711403,0,1,0,27-10-2025
+18-10-2025,Uttar Pradesh,Barabanki,225205,2,1,0,18-10-2025
+24-09-2025,Uttar Pradesh,Gonda,271302,0,3,0,24-09-2025
+31-10-2025,Andhra Pradesh,Sri Potti Sriramulu Nellore,524305,1,0,0,31-10-2025
+15-09-2025,Maharashtra,Raigad,402110,2,0,0,15-09-2025
+13-10-2025,Uttarakhand,Chamoli,246428,1,0,0,13-10-2025
+16-10-2025,Jharkhand,Khunti,835209,2,1,0,16-10-2025
+25-09-2025,Odisha,Balasore,756035,6,1,0,25-09-2025
+25-09-2025,Bihar,Siwan,841239,4,4,0,25-09-2025
+29-10-2025,Madhya Pradesh,Rewa,486001,8,0,0,29-10-2025
+31-12-2025,Tamil Nadu,Tiruppur,638660,1,0,0,31-12-2025
+24-10-2025,Kerala,Palakkad,679552,1,0,0,24-10-2025
+15-10-2025,Tamil Nadu,Tirunelveli,627953,3,0,0,15-10-2025
+18-11-2025,Andhra Pradesh,Parvathipuram Manyam,532443,1,0,0,18-11-2025
+18-10-2025,Andhra Pradesh,Ananthapuramu,515863,1,0,0,18-10-2025
+19-10-2025,Gujarat,Surendranagar,382765,1,0,0,19-10-2025
+25-12-2025,Rajasthan,Jhunjhunu,333514,0,1,0,25-12-2025
+28-10-2025,Andhra Pradesh,Krishna,521325,1,0,0,28-10-2025
+25-09-2025,Uttarakhand,Almora,244715,1,0,0,25-09-2025
+31-12-2025,Bihar,Muzaffarpur,843111,13,35,2,31-12-2025
+27-12-2025,Kerala,Kozhikode,673655,3,1,0,27-12-2025
+19-09-2025,Telangana,Nalgonda,508101,4,0,0,19-09-2025
+15-12-2025,Telangana,Nizamabad,503185,1,0,0,15-12-2025
+22-09-2025,Madhya Pradesh,Satna,485774,4,0,0,22-09-2025
+13-11-2025,Kerala,Thrissur,680513,0,1,0,13-11-2025
+26-12-2025,Chhattisgarh,Janjgir-Champa,495692,3,0,0,26-12-2025
+16-09-2025,Madhya Pradesh,Khandwa,451115,0,1,0,16-09-2025
+18-09-2025,Tamil Nadu,Madurai,625503,1,0,0,18-09-2025
+28-12-2025,Tamil Nadu,Namakkal,637021,1,0,0,28-12-2025
+19-10-2025,Maharashtra,Chandrapur,441222,1,0,0,19-10-2025
+13-10-2025,Uttar Pradesh,Ballia,277001,5,13,0,13-10-2025
+22-09-2025,Punjab,Gurdaspur,143604,1,0,0,22-09-2025
+13-09-2025,Rajasthan,Ajmer,305601,4,0,0,13-09-2025
+16-10-2025,West Bengal,North 24 Parganas,700036,1,1,0,16-10-2025
+24-09-2025,Uttar Pradesh,Jaunpur,222128,1,2,0,24-09-2025
+18-11-2025,West Bengal,Malda,732101,1,0,0,18-11-2025
+28-12-2025,Tamil Nadu,Madurai,625532,1,0,0,28-12-2025
+27-12-2025,Tamil Nadu,Sivaganga,630108,5,0,0,27-12-2025
+27-12-2025,Bihar,Saran,841222,1,4,0,27-12-2025
+26-12-2025,West Bengal,Birbhum,731221,9,1,0,26-12-2025
+19-11-2025,Gujarat,Kachchh,370640,1,0,0,19-11-2025
+15-11-2025,Gujarat,Gir Somnath,362530,7,0,0,15-11-2025
+14-11-2025,Uttarakhand,Uttarkashi,249196,6,0,0,14-11-2025
+22-12-2025,Chhattisgarh,Bilaspur (Cg),495118,5,0,0,22-12-2025
+18-09-2025,Andhra Pradesh,Ananthapuramu,515863,1,0,0,18-09-2025
+27-10-2025,Tamil Nadu,Viluppuram,606205,1,0,0,27-10-2025
+17-09-2025,Madhya Pradesh,Khargone,451441,9,8,2,17-09-2025
+28-10-2025,Kerala,Palakkad,679512,1,0,0,28-10-2025
+13-10-2025,Maharashtra,Osmanabad,413509,4,0,0,13-10-2025
+30-10-2025,Tamil Nadu,Pudukkottai,614622,4,0,0,30-10-2025
+26-10-2025,Tamil Nadu,Sivaganga,630003,0,1,0,26-10-2025
+27-10-2025,Andhra Pradesh,Sri Potti Sriramulu Nellore,524101,2,1,0,27-10-2025
+28-10-2025,Tamil Nadu,Nagapattinam,609111,1,0,0,28-10-2025
+14-11-2025,West Bengal,Paschim Medinipur,721122,2,0,0,14-11-2025
+21-12-2025,Odisha,Mayurbhanj,757033,3,0,0,21-12-2025
+28-10-2025,Tamil Nadu,Salem,636454,1,0,0,28-10-2025
+22-09-2025,Manipur,Churachandpur,795128,2,6,0,22-09-2025
+17-11-2025,Tamil Nadu,Thanjavur,614804,0,1,0,17-11-2025
+29-10-2025,Odisha,Ganjam,761010,1,0,0,29-10-2025
+13-10-2025,Telangana,Nalgonda,508284,1,0,0,13-10-2025
+15-12-2025,Maharashtra,Pune,412404,1,0,0,15-12-2025
+13-11-2025,Odisha,Khordha,752102,2,0,0,13-11-2025
+15-12-2025,Rajasthan,Sikar,332302,4,0,0,15-12-2025
+31-10-2025,Maharashtra,Satara,415109,2,0,0,31-10-2025
+31-10-2025,Uttar Pradesh,Bahraich,271903,4,12,1,31-10-2025
+15-09-2025,West Bengal,Purba Medinipur,721654,1,0,0,15-09-2025
+24-09-2025,Bihar,Madhepura,852220,1,4,0,24-09-2025
+24-09-2025,Maharashtra,Palghar,401502,1,0,0,24-09-2025
+29-12-2025,Andhra Pradesh,Ananthapuramu,515301,1,0,0,29-12-2025
+13-09-2025,Uttar Pradesh,Kanpur Nagar,208013,1,3,0,13-09-2025
+18-11-2025,Uttar Pradesh,Bareilly,243202,9,1,0,18-11-2025
